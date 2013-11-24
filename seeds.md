@@ -17,5 +17,5 @@
 5017172059162084141
 ===================
 
-- Biomes: Jungle, Swap, Plains, Forest, River
+- Biomes: Jungle, Swamp, Plains, Forest, River
 - Features: Village! Several groups of horses near village
