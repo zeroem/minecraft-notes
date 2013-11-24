@@ -12,3 +12,10 @@
 
 - Biomes within sight of spawn: plains, swamp, forest, and roofed forest
 - witch hut within sight of spawn
+
+
+5017172059162084141
+===================
+
+- Biomes: Jungle, Swap, Plains, Forest, River
+- Features: Village! Several groups of horses near village
