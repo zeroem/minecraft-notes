@@ -19,3 +19,10 @@
 
 - Biomes: Jungle, Swamp, Plains, Forest, River
 - Features: Village! Several groups of horses near village
+
+
+-4468327319790301304
+====================
+
+- Archipelago
+- Plains and forest
